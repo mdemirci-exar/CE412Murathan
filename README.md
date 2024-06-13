@@ -7,9 +7,7 @@ Bu proje, bir üretim hattı simülasyonunu modellemek için geliştirilmiştir.
 - [Proje Açıklaması](#proje-açıklaması)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
-- [Simülasyon Detayları](#simülasyon-detayları)
-- [Raporlar ve Grafikler](#raporlar-ve-grafikler)
-- [Yazar](#yazar)
+
 
 ## Proje Açıklaması
 
